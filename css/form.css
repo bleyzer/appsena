@@ -1,0 +1,9 @@
+.top-buffer { 
+margin-top:60px; 
+}
+
+.fondoGris{
+	background-color: #E0E0E0;
+	width: 70%;
+	box-shadow: -5px 5px 5px #c2c2c2;
+}

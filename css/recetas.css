@@ -1,0 +1,33 @@
+.miFooter{
+  padding: 10px;
+  color: #333;
+}
+
+.miHeight{
+  height: 70%;
+  width: 100%;
+  padding: 0px;
+}
+
+.miPrueba{
+	width: 40%;
+}
+
+.miContainer{
+	box-shadow: -5px 5px 5px #c2c2c2;
+}
+
+.miPadding{
+	margin-bottom: 100px;
+	padding-bottom: 100px;
+}
+
+#wrap {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  /* Negative indent footer by its height */
+  margin: 0 auto -60px;
+  /* Pad bottom by footer height */
+  padding: 0 0 60px;
+}
